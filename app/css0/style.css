@@ -1,0 +1,13 @@
+.poster{
+width: 135;
+height: 135;
+
+}
+.poster-media-card{
+  border-color: black;
+  border-bottom: 1px;
+}
+
+.h1{
+  color: red;
+}
